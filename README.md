@@ -8,7 +8,7 @@ To get your discord token in a special way without doing too many steps, copy th
 ```
 
 <br>
-If copied, go to discord (browser version) and press `CTRL+SHIFT+I` on your keyboard, then open console tab. While it's open, paste the code that we copied. You will recieve your token easily without doing major steps and stuff.
+If copied, go to discord (browser version) and press "CTRL+SHIFT+I" on your keyboard, if that doesn't work, click on the three dots on upright corner. Then hover on more tools and hover your cursor over "Developer Tools". then open console tab. While it's open, paste the code that we copied. You will recieve your token easily without doing major steps and stuff.
 
 <br>
 </br>
