@@ -1,7 +1,7 @@
 # Get Your Discord Token
 
 To get your discord token in a special way without doing too many steps, copy the code given below:
-```
+```js
 // CODE BY ITZNEXUS
 (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
 // CODE BY ITZNEXUS
